@@ -1,0 +1,6 @@
+timestamp,user_email,event_type,mfa_status,destination_folder,new_permission_level,software_name,approved_list
+2024-11-27T08:00:00,ceo@defense-corp.com,USER_LOGIN,ENABLED,,,,
+2024-11-27T09:15:00,intern_steve@defense-corp.com,USER_LOGIN,DISABLED,,,,
+2024-11-27T10:30:00,sarah.jones@defense-corp.com,FILE_UPLOAD,,Public_Marketing_Share,,,
+2024-11-27T11:45:00,contractor_mike@defense-corp.com,PERMISSION_CHANGE,,,PUBLIC_READ,,
+2024-11-27T13:00:00,intern_steve@defense-corp.com,SOFTWARE_INSTALL,,,,uTorrent,FALSE
